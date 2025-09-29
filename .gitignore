@@ -2,3 +2,7 @@ PACE/dataset
 PACE/results
 PACE/src/__pycache__
 PACE/ckpt
+SAE/ckpt
+SAE/wandb
+SAE/src/__pycache__
+SAE/src/wandb
